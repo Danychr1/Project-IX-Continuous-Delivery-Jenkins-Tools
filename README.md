@@ -96,11 +96,11 @@ AWS CLI - Automates AWS commands.
  
 * Install Docker Engine and AWS CLI on Jenkins.
   
-Write a Jenkinsfile to:
+* Write a Jenkinsfile to:
 
-Build the Docker image.
+* Build the Docker image.
 
-Push the image to AWS ECR.
+* Push the image to AWS ECR.
 
       4. Deploy to AWS ECS
       
